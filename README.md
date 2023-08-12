@@ -1,2 +1,2 @@
 # Python_Turtle_Snake_Game
-Python ile kodladığım bir Yılan Oyunu
+Snake game I developed with Python using the Turtle Library
